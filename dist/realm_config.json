@@ -1,0 +1,7 @@
+{
+    "app_id": "firstapp-roegq",
+    "config_version": 20210101,
+    "name": "FirstApp",
+    "location": "US-VA",
+    "deployment_model": "LOCAL"
+}
